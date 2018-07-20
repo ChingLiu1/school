@@ -1,0 +1,46 @@
+body{
+	margin:0px;
+}
+#terminate{
+	height:2px;
+	background-color:gray;
+}
+
+#title{
+	height:150px;
+	margin-top:20px;
+}
+
+@media only screen and (max-width: 350px){
+	h1{
+		display:none;
+	}
+	#title{
+		display:none;
+	}
+}
+	
+h1{
+	font-size:50px;
+	font-family:lucida calligraphy;
+	text-align:center;
+	color:rgb(0,128,255);
+}
+
+.item img{
+	height:100px;
+}
+
+#terminate2{
+	height:40px;
+}
+
+#terminate3{
+	height:30px;
+}
+footer{
+	background-color:#333;
+	color:#eee;
+	font-size:12px;
+	margin:0px;
+}
